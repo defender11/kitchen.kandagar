@@ -1,0 +1,4 @@
+MYSQL (localhost)
+-----------------------
+login: user
+pass: nbj84xWehtrzHaUV
